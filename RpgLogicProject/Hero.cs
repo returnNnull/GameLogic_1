@@ -7,8 +7,7 @@ namespace RpgLogicProject
 		public int Level { get; set; }
 		public double Damage{ get;private set;}
 		public double Hp { get; set;}
-
-        //Добавить оружие или броню
+        //Добавить оружие или броню. 
 
         public Hero(string name, int level, double hp)
         {
