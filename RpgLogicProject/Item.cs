@@ -7,6 +7,7 @@ namespace RpgLogicProject
 		public string Name { get; set; }
 		public int Weigth { get; set;}
 
+
         public Item(string name, int weigth)
         {
             Name = name;
